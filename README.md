@@ -1,4 +1,5 @@
-[![Header](https://github.com/IT-Kitty/IT-Kitty/blob/main/assets/cat.jpg)](https://www.instagram.com/it_web_site/)
+[![Header](https://github.com/IT-Kitty/IT-Klaper/blob/main/assets/cat.jpg)](https://www.instagram.com/it_web_site/)
+
 
 ## I'm a Junior Web Developer. I have good skills in FrontEnd development.   
 
