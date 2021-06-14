@@ -12,3 +12,5 @@
 [![Inst](https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=Instagram&logoColor=a436b4)](https://www.instagram.com/it_web_site/)
 [![Vk](https://img.shields.io/badge/VK-000000?style=flat-square&logo=vk&logoColor=2787f5)](https://vk.com/id272643731)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-Klaper&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
