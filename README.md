@@ -12,5 +12,10 @@
 [![Inst](https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=Instagram&logoColor=a436b4)](https://www.instagram.com/it_web_site/)
 [![Vk](https://img.shields.io/badge/VK-000000?style=flat-square&logo=vk&logoColor=2787f5)](https://vk.com/id272643731)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-Klaper&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="Kate Kovtun's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Klaper&langs_count=8&layout=compact&theme=tokyonight" />
+    <br />
+    <img align="left" alt="Kate Kovtun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IT-Klaper&show_icons=true&theme=tokyonight" />
+</details>
 
