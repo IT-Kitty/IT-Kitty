@@ -1,4 +1,4 @@
-[![Header](https://github.com/IT-Klaper/IT-Klaper/blob/main/assets/cat.jpg)](https://www.instagram.com/it_web_site/)
+[![Header](https://github.com/IT-Klaper/IT-Kitty/blob/main/assets/cat.jpg)](https://www.instagram.com/it_web_site/)
 
 ## I'm a Junior Web Developer. I have good skills in FrontEnd development.   
 
@@ -14,8 +14,8 @@
 
 <details>
   <summary>:zap: Statistics:</summary>
-   <img align="left" alt="Kate Kovtun's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Klaper&langs_count=8&layout=compact&theme=tokyonight" />
+   <img align="left" alt="Kate Kovtun's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Kitty&langs_count=8&layout=compact&theme=tokyonight" />
     <br />
-    <img align="left" alt="Kate Kovtun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IT-Klaper&show_icons=true&theme=tokyonight" />
+    <img align="left" alt="Kate Kovtun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IT-Kitty&show_icons=true&theme=tokyonight" />
 </details>
 
