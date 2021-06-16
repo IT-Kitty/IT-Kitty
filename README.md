@@ -1,4 +1,4 @@
-[![Header](https://github.com/IT-Kitty/IT-Klaper/blob/main/assets/cat.jpg)](https://www.instagram.com/it_web_site/)
+![Header](https://github.com/IT-Kitty/IT-Kitty/blob/main/assets/logo.jpg)
 
 
 ## I'm a Junior Web Developer. I have good skills in FrontEnd development.   
@@ -12,6 +12,7 @@
 ### Follow me
 [![Inst](https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=Instagram&logoColor=a436b4)](https://www.instagram.com/it_web_site/)
 [![Vk](https://img.shields.io/badge/VK-000000?style=flat-square&logo=vk&logoColor=2787f5)](https://vk.com/id272643731)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-000000?style=flat-square&logo=facebook&logoColor=2787f5)](https://www.facebook.com/profile.php?id=100009339094574)
 
 <details>
   <summary>:zap: Statistics:</summary>
