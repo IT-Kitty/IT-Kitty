@@ -4,10 +4,14 @@
 ## I'm a Junior Web Developer. I have good skills in FrontEnd development.   
 
 ### Languages and Tools
-![HTML5](https://img.shields.io/badge/HTML-bd0000?style=flat-square&logo=html5&logoColor=f2d00c)
-![CSS3](https://img.shields.io/badge/CSS-bd0000?style=flat-square&logo=CSS3&logoColor=2aa9e0)
-![JavaScript](https://img.shields.io/badge/JavaScript-bd0000?style=flat-square&logo=javascript)
-![VS](https://img.shields.io/badge/VS_code-bd0000?style=flat-square&logo=Visual-studio&logoColor=2aa9e0)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react)
+![ReactNative](https://img.shields.io/badge/ReactNative-ffffff?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-ffffff?style=flat-square&logo=html5&logoColor=f2d00c)
+![CSS3](https://img.shields.io/badge/CSS-ffffff?style=flat-square&logo=CSS3&logoColor=2aa9e0)
+![VS](https://img.shields.io/badge/VS_code-ffffff?style=flat-square&logo=Visual-studio&logoColor=2aa9e0)
 
 ### Follow me
 [![Inst](https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=Instagram&logoColor=a436b4)](https://www.instagram.com/it_web_site/)
